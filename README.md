@@ -14,6 +14,7 @@ This is a simple D3.js chart that displays stock data. The data is loaded from a
 ## Features
 - Fetches stock data from the API
 - Used D3.js and Recharts to display the stock data
+- Can change the stock data time range (1D, 1W, 1M, 3M, 1Y, 5Y)
 - Displays the stock data as a area (close price) and bar chart (volumes)
 - CrossHair to display the stock price according to dates when the user hovers over chart
 - Tooltip to display the current stock price 
