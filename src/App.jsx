@@ -79,7 +79,7 @@ function App() {
 
 
   return (
-    <div className="flex flex-col items-center justify-center w-full h-[100vh] overflow-y-auto mt-10">
+    <div className="flex flex-col items-center justify-center w-full h-[100vh] mt-10">
       <div className="flex flex-col items-start justify-start w-[1200px] h-full">
 
         <div className={`flex flex-col gap-4 items-start w-full `}>

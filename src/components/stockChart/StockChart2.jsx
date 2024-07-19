@@ -258,7 +258,7 @@ const StockChart2 = ({ timeframe, chartData, handleTimeframeChange }) => {
     };
 
     return (
-        <div className="flex flex-col items-center justify-center mt-4 w-full overflow-y-auto">
+        <div className="flex flex-col items-center justify-center mt-4 w-full">
             <div className="flex flex-col items-start justify-center w-full h-full">
                 <div className='flex w-[1020px] justify-between py-4'>
                     <div className='flex gap-4'>
